@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnn_h5_tf"
+all_model_checkpoint_paths: "cnn_h5_tf"
